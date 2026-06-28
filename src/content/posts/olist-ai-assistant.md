@@ -14,7 +14,7 @@ tags:
 description: Multi-agent RAG platform untuk query natural language atas data e-commerce Olist Brazil — semantic search, SQL, dan vision search dalam satu chat.
 ---
 
-![Olist AI Assistant UI](/olist.png)
+<img src="/olist.png" alt="Olist AI Assistant UI" loading="lazy" />
 
 ## Problem
 

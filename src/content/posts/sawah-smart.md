@@ -13,7 +13,7 @@ tags:
 description: End-to-end sistem monitoring padi — ESP32-CAM capture, SVM+ExGR classify kematangan, Cloud Run inference, Firebase realtime, PWA dashboard.
 ---
 
-![SawahSmart dashboard](/sawah1.png)
+<img src="/sawah1.png" alt="SawahSmart dashboard" loading="lazy" />
 
 ## Problem
 
@@ -36,9 +36,9 @@ Penentuan waktu panen padi manual butuh ahli agronomi di lapangan. Otomasi via v
 - Dataset 519 raw → 1140 augmented (Roboflow pipeline)
 - 2-tier arsitektur: VLM gatekeeper (Gemini Flash-Lite) → ML classifier
 
-![Bench setup ESP32-CAM](/sawah2.png)
+<img src="/sawah2.png" alt="Bench setup ESP32-CAM" loading="lazy" />
 
-![Benchmark comparison](/bench.jpeg)
+<img src="/bench.jpeg" alt="Benchmark comparison" loading="lazy" />
 
 ## Konteks
 

@@ -13,7 +13,7 @@ tags:
 description: Supervisor-based multi-agent RAG chatbot untuk query natural language atas IMDB Top 1000 — grounded answers, source attribution, cost transparency.
 ---
 
-![IMDB RAG Agent UI](/imdb.png)
+<img src="/imdb.png" alt="IMDB RAG Agent UI" loading="lazy" />
 
 ## Problem
 

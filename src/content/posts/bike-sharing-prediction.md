@@ -12,7 +12,7 @@ tags:
 description: Forecast hourly bike rental volume dari data cuaca + temporal — XGBoost tuned, R² 0.912.
 ---
 
-![Bike sharing EDA](/bike1.png)
+<img src="/bike1.png" alt="Bike sharing EDA" loading="lazy" />
 
 ## Problem
 
@@ -35,9 +35,9 @@ Python 3.9+, scikit-learn, XGBoost, pandas, matplotlib, seaborn
 - Error spike di commute hours (7-9 AM, 4-7 PM)
 - Akurasi turun di winter + adverse weather
 
-![Feature importance / metric](/bike2.png)
+<img src="/bike2.png" alt="Feature importance / metric" loading="lazy" />
 
-![Actual vs predicted](/bike3.png)
+<img src="/bike3.png" alt="Actual vs predicted" loading="lazy" />
 
 ## Links
 

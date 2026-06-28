@@ -12,7 +12,7 @@ tags:
 description: Sistem manajemen peminjaman buku — dual-role (admin/borrower), auto fine calculation, 6 laporan statistik.
 ---
 
-![Library system output](/perpustakaan.png)
+<img src="/perpustakaan.png" alt="Library system output" loading="lazy" />
 
 ## Stack
 

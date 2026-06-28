@@ -12,7 +12,7 @@ tags:
 description: EDA + RandomForest untuk prediksi survival Titanic — accuracy 82%, gender + age sebagai predictor utama.
 ---
 
-![Titanic EDA / metric](/titanic.png)
+<img src="/titanic.png" alt="Titanic EDA / metric" loading="lazy" />
 
 ## Stack
 

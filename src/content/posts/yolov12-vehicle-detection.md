@@ -12,7 +12,7 @@ tags:
 description: Sistem deteksi kendaraan + klasifikasi tingkat kemacetan via YOLOv12, dengan dashboard analytics interaktif.
 ---
 
-![YOLOv12 vehicle detection](/yolo.png)
+<img src="/yolo.png" alt="YOLOv12 vehicle detection" loading="lazy" />
 
 ## Problem
 
