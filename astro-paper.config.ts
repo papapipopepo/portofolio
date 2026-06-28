@@ -9,7 +9,7 @@ export default defineAstroPaperConfig({
     author: "Ezra Satria Bagas Airlangga",
     profile: "https://github.com/papapipopepo",
     ogImage: "default-og.jpg",
-    lang: "id",
+    lang: "en",
     timezone: "Asia/Jakarta",
     dir: "ltr",
   },
