@@ -5,9 +5,9 @@ description: "Ezra Satria Bagas Airlangga — AI/ML Engineer. Open untuk role Ma
 
 <img src="/Pas%20Foto%20Ezra%20Satria%203x4.png" alt="Ezra Satria Bagas Airlangga" loading="lazy" style="width:180px; height:auto; border-radius:8px; float:right; margin:0 0 1rem 1.5rem;" />
 
-Halo, saya **Ezra Satria Bagas Airlangga** — **AI/ML Engineer** dengan fokus di multi-agent RAG, LLM tooling, computer vision, dan IoT inference pipeline. Mahasiswa S2 Teknik Elektro Telkom University (Regulation & Management Telecommunication), dengan background tambahan di data analytics dan telecom regulation untuk membaca konteks domain yang lebih luas.
+Halo, saya **Ezra Satria Bagas Airlangga** — **AI/ML Engineer** dengan fokus di multi-agent RAG, LLM tooling, computer vision, dan IoT inference pipeline. Mahasiswa S2 Teknik Elektro Telkom University, dengan pengalaman tambahan di data analytics.
 
-Project portfolio di site ini adalah hasil bootcamp Purwadhika JCAI, Rakamin Academy, capstone module, dan thesis S2. Tiga project unggulan — Olist AI Assistant, IMDB RAG Agent, dan SawahSmart — fokus di AI/ML production stack (LangChain, LangGraph, Qdrant, OpenAI, FastAPI, Cloud Run). Sisanya menunjukkan kemampuan ML klasik (XGBoost, RandomForest, SVM), business analytics, dan engineering fundamentals.
+Project unggulan saya — Olist AI Assistant, SawahSmart, dan Vehicle Detection YOLOv12 — mencakup production AI/ML stack: LangGraph, Qdrant, OpenAI, YOLO, FastAPI, dan Cloud Run. Selebihnya hasil bootcamp, capstone, dan thesis.
 
 ## Fokus Utama (AI/ML)
 
@@ -21,7 +21,6 @@ Project portfolio di site ini adalah hasil bootcamp Purwadhika JCAI, Rakamin Aca
 - **Data Analytics**: BigQuery, Looker Studio, SQL, Pandas, business KPI dashboarding
 - **IoT End-to-End**: ESP32-CAM, PlatformIO, Firebase Realtime DB
 - **Backend**: Flask, FastAPI, Uvicorn, REST API
-- **Telecom Domain**: regulasi spektrum, data governance, smart agriculture
 
 ## Kontak
 

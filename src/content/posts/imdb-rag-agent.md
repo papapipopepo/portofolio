@@ -2,7 +2,7 @@
 title: "IMDB RAG Agent — Multi-Agent Movie Chatbot"
 author: Ezra Satria Bagas Airlangga
 pubDatetime: 2026-01-29T00:00:00Z
-featured: true
+featured: false
 draft: false
 tags:
   - projects

@@ -2,7 +2,7 @@
 title: "Vehicle Detection & Traffic Density — YOLOv12"
 author: Ezra Satria Bagas Airlangga
 pubDatetime: 2026-02-27T00:00:00Z
-featured: false
+featured: true
 draft: false
 tags:
   - projects
