@@ -10,7 +10,10 @@ tags:
   - bigquery
   - looker
 description: Dashboard business intelligence atas data transaksi Kimia Farma 2020-2023 — BigQuery + Looker Studio.
+ogImage: "/kimia-farma.jpg"
 ---
+
+![Kimia Farma Looker dashboard](/kimia-farma.jpg)
 
 ## Problem
 

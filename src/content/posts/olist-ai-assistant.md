@@ -12,7 +12,10 @@ tags:
   - fastapi
   - gcp
 description: Multi-agent RAG platform untuk query natural language atas data e-commerce Olist Brazil — semantic search, SQL, dan vision search dalam satu chat.
+ogImage: "/olist.png"
 ---
+
+![Olist AI Assistant UI](/olist.png)
 
 ## Problem
 

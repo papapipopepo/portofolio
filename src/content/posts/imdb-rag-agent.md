@@ -11,7 +11,10 @@ tags:
   - langgraph
   - multi-agent
 description: Supervisor-based multi-agent RAG chatbot untuk query natural language atas IMDB Top 1000 — grounded answers, source attribution, cost transparency.
+ogImage: "/imdb.png"
 ---
+
+![IMDB RAG Agent UI](/imdb.png)
 
 ## Problem
 

@@ -10,7 +10,10 @@ tags:
   - regression
   - xgboost
 description: Forecast hourly bike rental volume dari data cuaca + temporal — XGBoost tuned, R² 0.912.
+ogImage: "/bike1.png"
 ---
+
+![Bike sharing EDA](/bike1.png)
 
 ## Problem
 
@@ -32,6 +35,10 @@ Python 3.9+, scikit-learn, XGBoost, pandas, matplotlib, seaborn
 - Temporal features dominan (hour-of-day, peak indicator)
 - Error spike di commute hours (7-9 AM, 4-7 PM)
 - Akurasi turun di winter + adverse weather
+
+![Feature importance / metric](/bike2.png)
+
+![Actual vs predicted](/bike3.png)
 
 ## Links
 

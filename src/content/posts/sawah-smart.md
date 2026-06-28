@@ -11,7 +11,10 @@ tags:
   - computer-vision
   - thesis
 description: End-to-end sistem monitoring padi — ESP32-CAM capture, SVM+ExGR classify kematangan, Cloud Run inference, Firebase realtime, PWA dashboard.
+ogImage: "/sawah1.png"
 ---
+
+![SawahSmart dashboard](/sawah1.png)
 
 ## Problem
 
@@ -33,6 +36,10 @@ Penentuan waktu panen padi manual butuh ahli agronomi di lapangan. Otomasi via v
 - Studi komparatif: VLM vs ML vs DL vs Hybrid
 - Dataset 519 raw → 1140 augmented (Roboflow pipeline)
 - 2-tier arsitektur: VLM gatekeeper (Gemini Flash-Lite) → ML classifier
+
+![Bench setup ESP32-CAM](/sawah2.png)
+
+![Benchmark comparison](/bench.jpeg)
 
 ## Konteks
 
