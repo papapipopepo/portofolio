@@ -3,6 +3,8 @@ title: "About"
 description: "Ezra Satria Bagas Airlangga — Machine Learning Engineer & Telecom Regulation Researcher."
 ---
 
+<img src="/Pas%20Foto%20Ezra%20Satria%203x4.png" alt="Ezra Satria Bagas Airlangga" loading="lazy" style="width:180px; height:auto; border-radius:8px; float:right; margin:0 0 1rem 1.5rem;" />
+
 Halo, saya **Ezra Satria Bagas Airlangga**. Mahasiswa S2 Teknik Elektro Telkom University, jurusan Regulation & Management Telecommunication. Fokus saya di persimpangan tiga area: machine learning aplikatif, sistem IoT end-to-end, dan tata kelola data sektor telekomunikasi.
 
 Pengalaman teknis saya mencakup pembangunan multi-agent RAG system (LangChain, LangGraph, Qdrant), computer vision deployment dari edge device (ESP32-CAM) sampai Google Cloud Run, modeling tabular klasik (XGBoost, SVM, Random Forest), dan analytics di BigQuery + Looker Studio. Project portfolio di site ini adalah hasil bootcamp, capstone, dan thesis.
