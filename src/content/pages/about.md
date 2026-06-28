@@ -1,37 +1,26 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
+description: "Ezra Satria Bagas Airlangga — Machine Learning Engineer & Telecom Regulation Researcher."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Halo, saya **Ezra Satria Bagas Airlangga**. Mahasiswa S2 Teknik Elektro Telkom University, jurusan Regulation & Management Telecommunication. Fokus saya di persimpangan tiga area: machine learning aplikatif, sistem IoT end-to-end, dan tata kelola data sektor telekomunikasi.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+Pengalaman teknis saya mencakup pembangunan multi-agent RAG system (LangChain, LangGraph, Qdrant), computer vision deployment dari edge device (ESP32-CAM) sampai Google Cloud Run, modeling tabular klasik (XGBoost, SVM, Random Forest), dan analytics di BigQuery + Looker Studio. Project portfolio di site ini adalah hasil bootcamp, capstone, dan thesis.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## Skill Stack
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- **ML/AI**: Python, scikit-learn, XGBoost, PyTorch, LangChain, LangGraph, RAG, multi-agent orchestration
+- **Computer Vision**: YOLO, OpenCV, vegetation indices, VLM (Gemini, GPT-4o vision)
+- **IoT**: ESP32-CAM, PlatformIO, Firebase Realtime DB
+- **Backend**: FastAPI, Flask, Streamlit
+- **Cloud**: Google Cloud Run, Cloud Storage, BigQuery, Vercel, Docker
+- **Data**: SQL, Pandas, Looker Studio, Qdrant
+- **Domain**: Telecom regulation, data governance, smart agriculture
 
-## Features
+## Kontak
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+- Email: [ezra.satria16@gmail.com](mailto:ezra.satria16@gmail.com)
+- LinkedIn: [linkedin.com/in/ezrasatriabagas](https://linkedin.com/in/ezrasatriabagas/)
+- GitHub: [github.com/papapipopepo](https://github.com/papapipopepo)
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Open untuk peluang **Machine Learning Engineer**, **Data Scientist**, atau role hybrid teknikal-policy di sektor telekomunikasi.
