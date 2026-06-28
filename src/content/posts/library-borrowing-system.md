@@ -10,7 +10,6 @@ tags:
   - mysql
   - capstone
 description: Sistem manajemen peminjaman buku — dual-role (admin/borrower), auto fine calculation, 6 laporan statistik.
-ogImage: "/perpustakaan.png"
 ---
 
 ![Library system output](/perpustakaan.png)

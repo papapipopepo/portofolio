@@ -11,7 +11,6 @@ tags:
   - computer-vision
   - thesis
 description: End-to-end sistem monitoring padi — ESP32-CAM capture, SVM+ExGR classify kematangan, Cloud Run inference, Firebase realtime, PWA dashboard.
-ogImage: "/sawah1.png"
 ---
 
 ![SawahSmart dashboard](/sawah1.png)

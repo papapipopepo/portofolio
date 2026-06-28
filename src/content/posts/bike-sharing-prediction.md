@@ -10,7 +10,6 @@ tags:
   - regression
   - xgboost
 description: Forecast hourly bike rental volume dari data cuaca + temporal — XGBoost tuned, R² 0.912.
-ogImage: "/bike1.png"
 ---
 
 ![Bike sharing EDA](/bike1.png)

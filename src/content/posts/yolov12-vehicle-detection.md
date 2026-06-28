@@ -10,7 +10,6 @@ tags:
   - yolo
   - streamlit
 description: Sistem deteksi kendaraan + klasifikasi tingkat kemacetan via YOLOv12, dengan dashboard analytics interaktif.
-ogImage: "/yolo.png"
 ---
 
 ![YOLOv12 vehicle detection](/yolo.png)
