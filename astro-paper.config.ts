@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://portofolio-rho-self.vercel.app/",
+    url: "https://portofolio-ezrasatriabagas-self.vercel.app/",
     title: "Ezra Satria Bagas Airlangga",
     description:
       "Machine Learning Engineer & Telecom Regulation Researcher — S2 Teknik Elektro Telkom University. Portfolio of ML, RAG, computer vision, and IoT projects.",
