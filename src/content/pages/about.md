@@ -22,6 +22,14 @@ Project unggulan saya — Olist AI Assistant, SawahSmart, dan Vehicle Detection 
 - **IoT End-to-End**: ESP32-CAM, PlatformIO, Firebase Realtime DB
 - **Backend**: Flask, FastAPI, Uvicorn, REST API
 
+## Sertifikat & Kredensial
+
+- **Job Connector Bootcamp: AI Engineering** — Purwadhika Digital Technology School (2025–2026)
+- **Hak Cipta No. 000654338** — DJKI Kemenkumham: aplikasi AI Flood Detection WSN (2024)
+- **Data Science (DSF 38)** — Dibimbing.id
+- **Intro to Data Analytics** — RevoU (2025)
+- **Data Analysis Fundamental** — MySkill (2025)
+
 ## Kontak
 
 - Email: [ezra.satria16@gmail.com](mailto:ezra.satria16@gmail.com)
